@@ -1,3 +1,5 @@
+# Hidden folder where the staging area and commits live
+.git/
 # tells me the kilobytes or more info on the file size
 ll
 # a simple way to list files in long format
